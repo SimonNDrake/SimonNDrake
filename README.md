@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SimonNDrake
-- 👀 I’m interested in everything CFD, that is Computational Fluid Dynamics (not Contract For Differences)
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Fire Modelling and any R&D on the subject
+- 👋 Hi, I’m @SimonNDrake.
+- 👀 I’m interested in everything CFD, that is Computational Fluid Dynamics (not Contract For Differences).
+- 🌱 I’m currently learning about GitHub and how to use it.
+- 💞️ I’m looking to collaborate on Fire Modelling and any R&D on the subject.
 - 📫 How to reach me ...
 
 <!---
